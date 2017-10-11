@@ -1,0 +1,2 @@
+# receta
+Angular RoR Application
